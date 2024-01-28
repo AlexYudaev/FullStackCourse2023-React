@@ -1,7 +1,11 @@
+import Header from "./Parts/Header";
+
 const Products = () => {
 
     return (
-        <></>
+        <>
+        <Header />
+        </>
     );
 
 }

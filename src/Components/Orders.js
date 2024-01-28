@@ -1,7 +1,8 @@
+import Header from './Parts/Header'
 const Orders = () => {
 
     return (
-        <></>
+        <><Header /></>
     );
 
 }
